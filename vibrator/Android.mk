@@ -13,8 +13,6 @@ LOCAL_SHARED_LIBRARIES := \
     libbase \
     libhardware \
     libhidlbase \
-    libhidltransport \
-    libhwbinder \
     libutils \
     android.hardware.vibrator@1.0 \
     android.hardware.vibrator@1.1
